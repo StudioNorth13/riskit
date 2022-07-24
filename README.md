@@ -1,13 +1,13 @@
-# riskit
-a random ass site using php and some other shit yea
+# hyacinth (formerly riskit)
+a twitter-like-youtube site using php
 
 planned features:
-- post status updates 
+- post status updates (WIP)
 - change pfp
 - display name
 - username change
-- decent ui
 - **site admins can change sitewide css and features from setup folder**
 
 completed features:
-- none yet lol
+- decent ui ✔️
+- frontend for: index.php, home.php, settings.php, admin.php, user.php
